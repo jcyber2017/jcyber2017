@@ -16,5 +16,4 @@ I'm a frontend software engineer who is passionate about web development and cle
 - [Instagram](https://www.instagram.com/juancrodriguezsalas)
 - [Facebook](https://www.facebook.com/juanCRod)
 - Email: JuanCRodriguezSalas@gmail.com
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcyber2017&stats_format=bytes&theme=tokyonight&show_icons=true&locale=en&layout=compact)
+- [Web](https://juancrs.com)
